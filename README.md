@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=oliwierwojewoda&show_icons=true&locale=en&layout=compact" alt="oliwierwojewoda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliwierwojewoda&show_icons=true&locale=en" alt="oliwierwojewoda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oliwierwojewoda&show_icons=true&locale=en" alt="oliwierwojewoda" /></p>
