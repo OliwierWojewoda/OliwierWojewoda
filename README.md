@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliwierwojewoda&label=Profile%20views&color=0e75b6&style=flat" alt="oliwierwojewoda" /> </p>
 
-- 🔭 I’m currently working on [OrderManagment](https://github.com/OliwierWojewoda/OrderManagment)
+- 🔭 I’m currently working on [GameFinder](https://github.com/DamianWiacek/GameFinder)
 
 - 🌱 I’m currently developing in **.NET web and desktop apps**
 
